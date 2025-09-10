@@ -1,14 +1,14 @@
 # Cafe Sales & Performance Dashboard  
 
 ## 📌 Table of Contents  
-1. [Project Overview](#-1-project-overview)  
-2. [Business Problem / Objective](#-2-business-problem--objective)  
-3. [Dataset Description](#-3-dataset-description)  
-4. [Tools & Skills Used](#-4-tools--skills-used)  
-5. [Approach / Methodology](#-5-approach--methodology)  
-6. [Key Insights / Results](#-6-key-insights--results)  
-7. [Dashboard / Output Screenshots](#-7-dashboard--output-screenshots)  
-8. [Conclusion & Future Work](#-8-conclusion--future-work) 
+1. [Project Overview](#1-project-overview)  
+2. [Business Problem / Objective](#2-business-problem--objective)  
+3. [Dataset Description](#3-dataset-description)  
+4. [Tools & Skills Used](#4-tools--skills-used)  
+5. [Approach / Methodology](#5-approach--methodology)  
+6. [Key Insights / Results](#6-key-insights--results)  
+7. [Dashboard / Output Screenshots](#7-dashboard--output-screenshots)  
+8. [Conclusion & Future Work](#8-conclusion--future-work)  
 
 
 ##  1. Project Overview  
