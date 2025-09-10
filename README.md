@@ -79,7 +79,7 @@ The project aimed to transform raw transactional data into a **single source of 
 
 | Metric / Trend | Insight | Recommendation |
 |----------------|---------|----------------|
-| **Sales Performance** | 300 orders → **$63K revenue**, Avg Order Value = **$209.13** | Maintain growth by targeting repeat customers |
+| **Sales Performance** | 300 orders → **₹63K revenue**, Avg Order Value = **₹209.13** | Maintain growth by targeting repeat customers |
 | **Order Sources** | Delivery: **54.7%**, Dine-in: **28.91%**, Takeaway: **16.39%** | Strengthen delivery channel & expand promotions |
 | **Payment Modes** | Card: **52.88%**, UPI: **39.66%**, Cash: **7.46%** | Invest in digital infra & incentivize digital payments |
 | **Product Mix** | Beverages = **47.4% of revenue**; Top items → Sandwich & Latte | Diversify Beverages & Snacks for higher margins |
